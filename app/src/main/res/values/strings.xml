@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quraan</string>
+    <string name="title_home">Quran</string>
+    <string name="title_dashboard">Sebha</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="planets_array" type="color">#FFF>
+        <item>الله أكبر</item>
+        <item>سبحان الله</item>
+        <item>لا حول ولا قوة الا بالله</item>
+
+    </string-array>
+
+
+    <string-array name="Spinner_array" type="color">#FFF>
+        <item>الله أكبر</item>
+        <item>سبحان الله</item>
+        <item>لا حول ولا قوة الا بالله</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Ahadith">Ahadith</string>
+    <string name="Warning">Warning</string>
+    <string name="do_u_want_exit">do u want exit</string>
+    <string name="yes">yes</string>
+    <string name="Radio">Radio</string>
+    <string name="audio">Audio</string>
+</resources>
